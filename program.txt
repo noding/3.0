@@ -1,6 +1,8 @@
-Main(){
+﻿Main(){
 print "hello world"
 }
 method(){
 print "my name is “小飞牛"
+}
+test{
 }
